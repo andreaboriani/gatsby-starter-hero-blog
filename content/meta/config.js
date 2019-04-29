@@ -13,10 +13,10 @@ module.exports = {
 
   /* info */
   headerTitle: "Andrea Boriani",
-  headerSubTitle: "my Blog",
+  headerSubTitle: "il mio Blog",
 
   /*homepage*/
-  homepage: "work in progress...",
+  homepage: "lavori in corso...",
 
   /* manifest.json */
   manifestName: "andreaboriani - Blog",
