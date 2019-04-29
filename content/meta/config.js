@@ -16,7 +16,7 @@ module.exports = {
   headerSubTitle: "my Blog",
 
   /*homepage*/
-  homepage: "work in progress",
+  homepage: "work in progress...",
 
   /* manifest.json */
   manifestName: "HeroBlog - a GatsbyJS starter",
