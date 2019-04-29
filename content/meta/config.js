@@ -19,8 +19,8 @@ module.exports = {
   homepage: "work in progress...",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
-  manifestShortName: "HeroBlog", // max 12 characters
+  manifestName: "andreaboriani - Blog",
+  manifestShortName: "andreaboriani", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
   manifestThemeColor: "#666",
@@ -35,8 +35,8 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/andreaboriani" },
+    { name: "twitter", url: "https://twitter.com/andreab1965" },
+    { name: "facebook", url: "http://facebook.com/andrea.boriani" }
   ]
 };
