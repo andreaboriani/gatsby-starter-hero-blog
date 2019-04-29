@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: "andreaboriani my Blog", // <title>
   shortSiteTitle: "andreaboriani my Blog", // <title> ending for posts and pages
   siteDescription: "andreaboriani's Blog.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteUrl: "https://andreaboriani.netlify.com",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
