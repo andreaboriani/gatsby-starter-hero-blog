@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-
+import config from "../../../content/meta/config";
 import { FaArrowDown } from "react-icons/fa/";
 
 const Hero = props => {
@@ -9,9 +9,7 @@ const Hero = props => {
   return (
     <React.Fragment>
       <section className="hero">
-        <h1>
-          This is a demo site of&nbsp;the <strong>heroBlog</strong> GatsbyJS starter
-        </h1>
+        <h1> {config.homepage}   </h1>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>
